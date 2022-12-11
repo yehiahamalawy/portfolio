@@ -1,0 +1,62 @@
+@font-face {
+    font-family: Heebo;
+    src: url(Heebo/Heebo-VariableFont_wght.ttf);
+  }
+
+body{
+    font-family: Heebo;
+}
+header{
+    margin-bottom: 55px;
+}
+header ul{
+    list-style: none;
+}
+header li{
+    display: inline;
+}
+header a{
+    text-decoration: none;
+    color: black;
+    margin: 0px 70px;
+    font-weight: 80px;
+    font-style: normal;
+}
+.CONTAINER{
+    display: inline;
+    font-size: 80px;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-bottom:0px;
+  font-weight: lighter;
+}
+h2{
+    text-align: 40px;
+    margin-left:  120px;
+    margin-top: 10px;
+    font-size: 20px;
+
+}
+h3{
+margin-left: 120px;
+font-size: 20px;
+}
+img{
+   width: 600px;
+    margin-left: 300px;
+    margin-right: 100px;
+}
+.three{
+    display: flex;
+    margin-top: 30px;
+}
+h6{
+    font-size: 20px;
+    margin-left: 120px;
+    font-weight: lighter;
+}
+h4{ 
+margin-left: 120px;
+font-size: 20px;
+font-weight: bold;
+}
